@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>demo_tc01</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f824e7ed-47a7-4e2c-86d4-eaaac7ccd94a</testCaseGuid>
+</TestCaseEntity>
